@@ -1,7 +1,5 @@
 @ Author - Harshit Mishra
 
-Here's the README file for your project:
-
 ---
 
 # House Price Prediction Model Using XGBoost
