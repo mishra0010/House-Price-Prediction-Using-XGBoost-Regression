@@ -49,4 +49,4 @@ This project involves building a house price prediction model using the XGBoost 
 
 
 
-![image](https://github.com/user-attachments/assets/76bbbdc5-b9e3-42d4-a5a0-616b0e5ead51)
+-------------------------------------------![image](https://github.com/user-attachments/assets/76bbbdc5-b9e3-42d4-a5a0-616b0e5ead51)--------------------------------------------------
